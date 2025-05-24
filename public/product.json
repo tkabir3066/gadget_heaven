@@ -1,0 +1,112 @@
+[
+  {
+    "product_id": "lap001",
+    "product_title": "ZenBook Pro 14",
+    "product_image": "https://i.ibb.co/fGDfZY6t/1.jpg",
+    "category": "Laptops",
+    "price": 1150,
+    "description": "Powerful and portable laptop for creative professionals.",
+    "Specification": ["Intel i7", "16GB RAM", "1TB SSD", "OLED Display"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "lap002",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co/GQLw6Xvn/2.jpg",
+    "category": "Laptops",
+    "price": 1249,
+    "description": "Apple's lightweight performance machine with M2 chip.",
+    "Specification": ["Apple M2", "8GB RAM", "512GB SSD", "Retina Display"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "lap003",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co/0N2JbwD/3.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Compact high-performance laptop with InfinityEdge display.",
+    "Specification": ["Intel i5", "16GB RAM", "512GB SSD", "FHD Display"],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": "lap004",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co/FbDWByKh/4.jpg",
+    "category": "Laptops",
+    "price": 1300,
+    "description": "2-in-1 convertible laptop with premium design.",
+    "Specification": ["Intel i7", "16GB RAM", "1TB SSD", "Touchscreen"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "lap005",
+    "product_title": "Lenovo ThinkPad X1",
+    "product_image": "https://i.ibb.co/zV7ZwdNQ/5.jpg",
+    "category": "Laptops",
+    "price": 1120,
+    "description": "Robust business laptop with industry-standard reliability.",
+    "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "Carbon Fiber Body"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "lap006",
+    "product_title": "Acer Swift 5",
+    "product_image": "https://i.ibb.co/4g3mSrXh/6.jpg",
+    "category": "Laptops",
+    "price": 850,
+    "description": "Lightweight productivity laptop with decent battery life.",
+    "Specification": ["Intel i5", "8GB RAM", "512GB SSD", "FHD Touch Display"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "phone001",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co/FbVyHGBv/7.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Flagship Apple device with Dynamic Island and A16 Bionic chip.",
+    "Specification": ["A16 Bionic", "128GB Storage", "48MP Camera", "OLED Display"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "phone002",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co/wN3bnCJt/8.jpg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "Samsung’s powerful Android flagship with Snapdragon Gen 2.",
+    "Specification": ["Snapdragon 8 Gen 2", "128GB Storage", "120Hz AMOLED"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "watch001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co/JWR3ZyBj/9.jpg",
+    "category": "Smartwatches",
+    "price": 599,
+    "description": "Advanced health features with Always-On Retina display.",
+    "Specification": ["Heart Rate Monitor", "GPS", "Siri Integration"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "watch002",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co/B2hmzgfn/10.jpg",
+    "category": "Smartwatches",
+    "price": 550,
+    "description": "Stylish design with advanced fitness tracking and Wear OS.",
+    "Specification": ["BioActive Sensor", "Sleep Coaching", "GPS"],
+    "availability": false,
+    "rating": 4.4
+  }
+]
