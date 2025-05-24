@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="text-gray-500  max-w-11/12 mx-auto text-center mt-28">
+    <div className="text-gray-500  max-w-11/12 mx-auto text-center my-28">
       <div className="mb-4">
         <h1 className="font-bold text-3xl text-black">Gadget Heaven</h1>
         <p>Leading the way in cutting-edge technology and innovation.</p>

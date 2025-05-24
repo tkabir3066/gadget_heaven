@@ -25,6 +25,11 @@ const ProductDetails = () => {
   }
 
   const handleAddToCart = () => {
+    if(selectedProduct.availability == false)
+    {
+      toast.warning("Product Not Available");
+      return;
+    }
     addToCart(selectedProduct);
     setCartDisabled(true);
     toast.success("Item added to cart!");

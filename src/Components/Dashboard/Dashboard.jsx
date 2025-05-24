@@ -179,6 +179,7 @@ const Dashboard = () => {
                           className="btn mt-2 bg-purple-600 text-white hover:bg-purple-700"
                         >
                           Add to Cart
+                          
                         </button>
                       </div>
                     </div>
