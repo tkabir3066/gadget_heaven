@@ -1,12 +1,52 @@
-# React + Vite
+# 🚀 Gadget Heaven
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Link:**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Gadget Heaven is a modern gadget store built using **React** and **React Router**, styled with **Tailwind CSS**. It showcases real-world application features like product preview, cart/wishlist management, charting, toast notifications, and smooth routing.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **React** (Functional Components, Hooks)
+- **React Router** (Client-side Routing)
+- **Tailwind CSS** (Utility-first Styling)
+- **Context API** (State Management)
+- **React Toastify** (Toast Notifications)
+- **Recharts** (Data Visualization)
+- **Fake JSON Data** (Created with ChatGPT)
+
+---
+
+## ⚙️ Key Features
+
+- **🛒 Product Preview:**  
+  Browse a curated selection of gadgets like smartphones and laptops based on preference.
+
+- **❤️ Add to Cart & Wishlist:**  
+  Interact with each product to add it to your cart or wishlist.
+
+- **📊 Dashboard Tabs:**
+  - View all products in your cart or wishlist.
+  - On purchasing a product, a modal appears; closing it redirects to the homepage and clears the cart.
+
+- **🔄 Wishlist Sync:**
+  - Items moved from wishlist to cart are automatically removed from the wishlist.
+
+- **📈 Statistics Page:**  
+  View all product names and prices as a chart using Recharts.
+
+- **🔔 Toast Notifications:**  
+  Actions like "Add to Cart" or "Add to Wishlist" trigger instant feedback using React Toastify.
+
+---
+
+## 📁 Project Highlights
+
+- ✅ Conditional Rendering
+- ✅ `useState`, `useEffect` Hooks
+- ✅ `useLoader` for data fetching
+- ✅ `Context API` for global state management
+- ✅ Component-based architecture
+- ✅ Clean and responsive UI with Tailwind CSS
