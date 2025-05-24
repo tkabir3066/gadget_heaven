@@ -1,6 +1,7 @@
 # 🚀 Gadget Heaven
 
-**Live Link:**
+**Live Link:** [https://gadget-heaven123.netlify.app/](https://gadget-heaven123.netlify.app/)
+
 
 
 Gadget Heaven is a modern gadget store built using **React** and **React Router**, styled with **Tailwind CSS**. It showcases real-world application features like product preview, cart/wishlist management, charting, toast notifications, and smooth routing.
